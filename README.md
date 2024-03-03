@@ -1,2 +1,1 @@
-# Knuckles
 # Breakthrough
