@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Knucks",
   "resources": [
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":5,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":2,},
     {"id":{"name":"ball_obj","path":"objects/ball_obj/ball_obj.yy",},"order":2,},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":4,},
@@ -10,7 +11,7 @@
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
     {"id":{"name":"Ball1","path":"sprites/Ball1/Ball1.yy",},"order":1,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
-    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":3,},
+    {"id":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
