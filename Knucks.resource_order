@@ -23,6 +23,7 @@
     {"name":"snd_Click","order":1,"path":"sounds/snd_Click/snd_Click.yy",},
     {"name":"snd_Explode","order":3,"path":"sounds/snd_Explode/snd_Explode.yy",},
     {"name":"snd_PowerUp","order":4,"path":"sounds/snd_PowerUp/snd_PowerUp.yy",},
+    {"name":"snd_soundtrack","order":7,"path":"sounds/snd_soundtrack/snd_soundtrack.yy",},
     {"name":"Ball1","order":1,"path":"sprites/Ball1/Ball1.yy",},
     {"name":"spr_powers","order":14,"path":"sprites/spr_powers/spr_powers.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
