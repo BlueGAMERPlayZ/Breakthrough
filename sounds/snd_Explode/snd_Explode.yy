@@ -12,8 +12,8 @@
   "duration":2.443146,
   "name":"snd_Explode",
   "parent":{
-    "name":"Knucks",
-    "path":"Knucks.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

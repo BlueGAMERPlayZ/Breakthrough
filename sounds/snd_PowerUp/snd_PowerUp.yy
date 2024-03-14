@@ -12,8 +12,8 @@
   "duration":0.936,
   "name":"snd_PowerUp",
   "parent":{
-    "name":"Knucks",
-    "path":"Knucks.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
